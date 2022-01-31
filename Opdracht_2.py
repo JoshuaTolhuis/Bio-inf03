@@ -145,7 +145,7 @@ def main(args):
     msa = args.MSA
 
     # get sequence from file
-    sequence = read_nucleotide_sequence('./data/nucleotide/creatinekinase_nuc_hm.fasta')
+    sequence = read_nucleotide_sequence('./data/homologene.txt')
     if position > len(sequence):
         print("error: position can't be higher than length of sequence")
         sys.exit()
