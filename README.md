@@ -8,7 +8,7 @@ at the Hanze Hogeschool Groningen.
 
 -------------------------------
 Contains
-1.
-2.
+1. Opdracht 1
+2. Opdracht 2
 3.
 -------------------------------
