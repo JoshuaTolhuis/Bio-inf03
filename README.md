@@ -14,4 +14,4 @@ Contains
 Usage
 
 1. Opdracht_1 can be used by just opening it and reading the text file.
-2. Opdracht 2 has to be run in pycharm with an python interpreter.
+2. Opdracht_2 has to be run with a few commands, -n/--SNP, -p/--position, -m/--MSA
