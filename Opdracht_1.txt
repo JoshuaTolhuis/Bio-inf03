@@ -1,0 +1,10 @@
+The European lobster, Homarus gammarus, has dark blue colour, despite it having high levels of the chromophore astaxanthin, a reddish pigment also prominent in red salmons.
+This is because the astaxanthin in these lobsters is bound within a protein called crustacyanin.
+This protein denatures at high temperatures which is why, when boiled, the lobster turns its expected orange red.
+Crustacyanin is made up of sixteen monomers each being of one of the five different subunit types: A1, A2, A3, C1 and C2.
+Two of these subtypes (A3 and C2) are not know in their unbound form which makes their molecular weight harder to predict.
+The molecular weights of the other subunits are:
+A1: 20,652 Da
+A2: 19,670 Da
+C1: 20,667 Da
+The sixteen monomers are arranged into eight dimers, each subunit of the dimer contains four beta-pleated sheets that form a beta-barrel, and the astaxanthin molecule is positioned with one end in the apolar interior of the barrel and the other end projecting outwards. When these two subunits combine, the dimer forms a capsule structure around the two astaxanthin molecules. The dimer that is formed is called a beta-crustacyanin, the eight dimers collectively make up a single alpha-crustacyanin. The structure of this large protein complex creates a bathochromic shift in the perceived colour. 
