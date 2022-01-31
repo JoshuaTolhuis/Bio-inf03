@@ -8,7 +8,10 @@ at the Hanze Hogeschool Groningen.
 
 -------------------------------
 Contains
-1. Opdracht 1
-2. Opdracht 2
-3.
+1. Opdracht_1
+2. Opdracht_2
 -------------------------------
+Usage
+
+1. Opdracht_1 can be used by just opening it and reading the text file.
+2. Opdracht 2 has to be run in pycharm with an python interpreter.
